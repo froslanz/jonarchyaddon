@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "jonarchy-addon",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for Meteor Client addons.",
+  "name": "Jonarchy Addon",
+  "description": "A addon made for playing in Jonarchy",
   "authors": [
-    "seasnail"
+    "froslanz"
   ],
   "contact": {
-    "sources": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "sources": "https://github.com/froslanz/jonarchyaddon"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
