@@ -5,4 +5,5 @@ A Meteor Client addon for playing in the server `Jonarchy.com`
 * Nothing, yet
 
 ### Disclaimer
-This addon is not affiliated in any way with the creators of Meteor Client.
+This project is an independent addon and is not affiliated, associated, authorized, endorsed by, 
+or in any way officially connected with Meteor Development or the creators of Meteor Client.
