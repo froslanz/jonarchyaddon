@@ -2,7 +2,7 @@
 A Meteor Client addon for playing in the server `Jonarchy.com`
 
 ### Features
-* Nothing, yet
+* Auto-Enderchest Dupe
 
 ### Disclaimer
 This project is an independent addon and is not affiliated, associated, authorized, endorsed by, 
